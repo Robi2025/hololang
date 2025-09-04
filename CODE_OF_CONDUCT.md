@@ -1,0 +1,1 @@
+Código de Conducta basado en Contributor Covenant v2.1

@@ -1,0 +1,1 @@
+Guía para contribuir a HoloLang
